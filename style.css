@@ -1,7 +1,10 @@
 div{
+    
     margin: auto;
     width: 50%;
 }
 lottie-player {
-    margin: auto;
+    
+    /* margin: auto; */
+    margin-top: 20%;
 }
